@@ -1,0 +1,9 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+.items {
+    border: 1px solid red;
+    width: 30%;
+
+}
